@@ -58,4 +58,4 @@ console.log(max_min([2, 4, 6, 8, 10]))
 
 // space complexity is n + 4
 // time complexity is n ^ 2
-// method can be useful in cryptography
+// method can be useful in cryptography, randomixation in machine learning and load balancing of servers.
